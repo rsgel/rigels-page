@@ -35,3 +35,5 @@ fields:
     - Rigel
   label: Author
   default: Nichlas W. Andersen
+pages:
+- journal/welcome.md
