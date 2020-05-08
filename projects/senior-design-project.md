@@ -2,7 +2,8 @@
 date: 2020-05-08
 thumbnail: "/uploads/Annotation 2020-05-07 174726.png"
 title: Senior Design Project
-categories: []
+categories:
+- school
 project_bg_color: "#3C4D74"
 project_fg_color: "#4A90E2"
 
