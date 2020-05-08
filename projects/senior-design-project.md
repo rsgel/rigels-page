@@ -1,6 +1,6 @@
 ---
 date: 2020-05-08
-thumbnail: "/uploads/Annotation 2020-05-07 174726.png"
+thumbnail: "/uploads/Annotation 2020-05-07 174726-1.png"
 title: Senior Design Project
 categories:
 - school
