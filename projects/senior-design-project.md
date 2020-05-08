@@ -5,7 +5,7 @@ title: Senior Design Project
 categories:
 - school
 project_bg_color: "#3C4D74"
-project_fg_color: "#4A90E2"
+project_fg_color: "#E4F2FF"
 
 ---
 # Senior Design
